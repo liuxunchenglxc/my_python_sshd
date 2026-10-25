@@ -1,0 +1,1 @@
+asyncssh[bcrypt,fido2,gssapi,ifaddr,pkcs11,pyOpenSSL]
